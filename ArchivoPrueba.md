@@ -1,5 +1,5 @@
 Hola que tal amiguito
 esta es una
-cosa rara de
+buena
 prueba
-bays
+bye
